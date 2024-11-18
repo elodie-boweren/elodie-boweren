@@ -1,16 +1,12 @@
-![Picture]()  
+![Picture](The-Northern-Lights.jpg)  
 
-# Hi!!  👋
+<h1 align="center">Hi there! 👋</h1> 
 
 ## ✨About me   
   
 👀 I’m interested in life, nature, our world, other people, connections, and so much more!
 
-🌱 I’m currently learning IT at the school La Plateforme in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.
-
-## 🔗 How to reach me 🌎  
-[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/elodie-boweren)
-[![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=elodie.boweren@laplateforme.io)
+🌱 I’m currently learning IT at the school La Plateforme in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.  
 
 ## Skills  
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) 
@@ -20,6 +16,10 @@
 ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
 ![PHP](https://img.icons8.com/?size=100&id=13460&format=png&color=000000)
 ![Windows](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
+
+## 🔗 How to reach me 🌎  
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/elodie-boweren)
+[![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=elodie.boweren@laplateforme.io)  
 
 ## Statistics  
 
