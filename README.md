@@ -1,5 +1,7 @@
-# Hi, I’m Elodie ✨
+# Hi!! 
 
+✨ About me   
+  
 👀 I’m interested in life, nature, our world, other people, connections, and so much more!
 
 🌱 I’m currently learning IT at the school La Plateforme in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.
