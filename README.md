@@ -5,8 +5,8 @@
 🌱 I’m currently learning IT at the school La Plateforme in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.
 
  🔗 How to reach me 🌎  
-[![linkedin](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](www.linkedin.com/in/elodie-boweren) 
-[![Googlemail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:elodie.boweren@gmail.com)
+[!(https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](www.linkedin.com/in/elodie-boweren) 
+[!(https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:elodie.boweren@gmail.com)
 
 <!---
 elodie-boweren/elodie-boweren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
