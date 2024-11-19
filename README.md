@@ -25,6 +25,7 @@
 ## Statistics  
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=elodie-boweren&show_icons=true)
+![Languages by repo](https://github-readme-stats.vercel.app/api/top-langs/?username=elodie-boweren&html,css,java)
 
 
 <!---
