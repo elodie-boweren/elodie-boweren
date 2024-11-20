@@ -6,7 +6,7 @@
   
 👀 I’m interested in life, nature, our world, other people, connections, and so much more!
 
-🌱 I’m currently learning IT at the school La Plateforme in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.  
+🌱 I’m currently learning IT at the school [La Plateforme](https://www.https://laplateforme.io/) in Marseille. It's a big step for me and I'm keen on learning new things about what happens behind the screen.  
 
 ## Skills  
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) 
@@ -24,9 +24,13 @@
 
 ## Statistics  
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=elodie-boweren&show_icons=true)
-![Languages by repo](https://github-readme-stats.vercel.app/api/top-langs/?username=elodie-boweren&html,css,java)
-
+<p align="center">
+<a href="https://github.com/elodie-boweren/elodie-boweren">
+  <img height=165 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie-boweren&layout=compact&langs_count=8&card_width=300&title_color=07004D&text_color=3D315B&icon_color=6B0504&bg_color=F8F991&locale=fr" alt="Elodie's GitHub Languages"/>
+</a>
+<a href="https://github.com/elodie-boweren/elodie-boweren">
+  <img height=165  align="center"  src="https://github-readme-stats.vercel.app/api?username=elodie-boweren&show_icons=true&line_height=27&count_private=true&title_color=07004D&text_color=3D315B&icon_color=6B0504&bg_color=F8F991&locale=en" alt="Elodie's GitHub Stats" />
+</a>
 
 <!---
 elodie-boweren/elodie-boweren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
