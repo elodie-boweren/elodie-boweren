@@ -26,10 +26,10 @@
 
 <p align="center">
 <a href="https://github.com/elodie-boweren/elodie-boweren">
-  <img height=165 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie-boweren&layout=compact&langs_count=8&card_width=300&title_color=07004D&text_color=3D315B&icon_color=6B0504&bg_color=F8F991&locale=fr" alt="Elodie's GitHub Languages"/>
+  <img height=165 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie-boweren&theme=cobalt&langs_count=8&locale=fr" alt="Elodie's GitHub Languages"/>
 </a>
 <a href="https://github.com/elodie-boweren/elodie-boweren">
-  <img height=165  align="center"  src="https://github-readme-stats.vercel.app/api?username=elodie-boweren&show_icons=true&line_height=27&count_private=true&title_color=07004D&text_color=3D315B&icon_color=6B0504&bg_color=F8F991&locale=en" alt="Elodie's GitHub Stats" />
+  <img height=165  align="center"  src="https://github-readme-stats.vercel.app/api?username=elodie-boweren&theme=cobalt&show_icons=true&line_height=27&count_private=true&locale=en" alt="Elodie's GitHub Stats" />
 </a>
 
 <!---
