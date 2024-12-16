@@ -6,7 +6,7 @@
   
 👀 I’m interested in life, nature, our world, other people, connections, and so much more!
 
-🌱 I’m currently learning IT at the school [La Plateforme](https://www.https://laplateforme.io/) in Marseille. It's a big step for me and I'm keen to learn new things about what happens behind the screen.  
+🌱 I’m currently learning IT at the school [La Plateforme](https://www.https://laplateforme.io/) in Marseille. It's a big step for me and I'm keen to learn new things about what happens behind the screen and how I can make things happen and change...  
 
 ## Skills  
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) 
