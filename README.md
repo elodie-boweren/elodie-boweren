@@ -13,10 +13,9 @@
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)
-![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![PHP](https://img.icons8.com/?size=100&id=13460&format=png&color=000000)
 ![Windows](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
 ![Linux](https://img.icons8.com/?size=100&id=37823&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000)
 
 ## 🔗 How to reach me 🌎  
 [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/elodie-boweren)
