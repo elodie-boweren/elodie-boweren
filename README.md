@@ -18,6 +18,7 @@
 ![SQL](https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000)
 
 ## 🔗 How to reach me 🌎  
+<p align="center">
 [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/elodie-boweren)
 [![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=elodie.boweren@laplateforme.io)  
 
