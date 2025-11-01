@@ -49,12 +49,14 @@
 ## Statistics  
 
 <p align="center">
-<a href="https://github.com/elodie-boweren/elodie-boweren">
-  <img height=165 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie-boweren&theme=cobalt&langs_count=8&locale=en" alt="Elodie's GitHub Languages"/>
-</a>
-<a href="https://github.com/elodie-boweren/elodie-boweren">
-  <img height=165  align="center"  src="https://github-readme-stats.vercel.app/api?username=elodie-boweren&theme=cobalt&show_icons=true&line_height=27&count_private=true&locale=en" alt="Elodie's GitHub Stats" />
-</a>
+  <a href="https://github.com/elodie-boweren/elodie-boweren">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie-boweren&theme=cobalt&langs_count=8&locale=en" alt="Elodie's GitHub Languages"/>
+  </a>
+  <a href="https://github.com/elodie-boweren/elodie-boweren">
+    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=elodie-boweren&theme=cobalt&show_icons=true&line_height=27&count_private=true&locale=en" alt="Elodie's GitHub Stats" />
+  </a>
+</p>
+
 
 <!---
 elodie-boweren/elodie-boweren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
